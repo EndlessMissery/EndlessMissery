@@ -5,15 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="#česky">Čeština</a> &nbsp;·&nbsp; 
-  <a href="#english">English</a>
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,firebase,figma,git" alt="React, TypeScript, JavaScript, Firebase, Figma, Git" />
 </p>
 
 <br />
+
+<details open>
+<summary><strong>Čeština</strong></summary>
 
 React Native & Frontend Engineer · Česká republika
 
@@ -39,9 +37,10 @@ je záměrně vybrané: samostatné hooks a vzory vytažené z projektů.
 **Celé case studies, metriky a živá dema:** [romankalita.com](https://romankalita.com)
 **Kontakt:** [LinkedIn](https://www.linkedin.com/in/roman-kalita-600643323/) · romankalita010@gmail.com
 
-<br />
+</details>
 
----
+<details>
+<summary><strong>English</strong></summary>
 
 React Native & Frontend Engineer · Czech Republic
 
@@ -66,3 +65,5 @@ projects.
 
 **Full case studies, metrics, and live demos:** [romankalita.com](https://romankalita.com)
 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/roman-kalita-600643323/) · romankalita010@gmail.com
+
+</details>
