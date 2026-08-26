@@ -19,9 +19,7 @@ Offline-first architektura
 
 Většina toho, co dělám, je buď pod NDA (produkční systémy pro záchranné
 složky), nebo zatím před spuštěním a zůstává uzavřená — co je tady veřejné,
-je záměrně vybrané: samostatné hooks a vzory vytažené z těch projektů,
-komentáře a identifikátory odstraněné, bezpečné ke čtení bez odhalení
-zbytku.
+je záměrně vybrané: samostatné hooks a vzory vytažené z projektů.
 
 **Celé case studies, metriky a živá dema:** [romankalita.com](https://romankalita.com)
 **Kontakt:** [LinkedIn](https://www.linkedin.com/in/roman-kalita-600643323/) · romankalita010@gmail.com
@@ -48,8 +46,7 @@ Offline-first architecture
 Most of what I build is either under NDA (production systems for emergency
 services) or pre-revenue and staying closed for now — so what's public here
 is deliberately curated: standalone hooks and patterns pulled from those
-projects, comments and identifiers stripped, safe to read without exposing
-the rest.
+projects.
 
 **Full case studies, metrics, and live demos:** [romankalita.com](https://romankalita.com)
 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/roman-kalita-600643323/) · romankalita010@gmail.com
