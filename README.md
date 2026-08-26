@@ -1,7 +1,5 @@
 ### Roman Kalita
 
-## Česky
-
 React Native & Frontend Engineer · Česká republika
 
 Aktuálně Frontend Lead v Pixacom Technology, vyvíjím offline-first mobilní a
@@ -30,7 +28,6 @@ zbytku.
 
 ---
 
-## English
 
 React Native & Frontend Engineer · Czech Republic
 
