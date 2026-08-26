@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  🇨🇿 <a href="#česky">Čeština</a> &nbsp;·&nbsp; 🇬🇧 <a href="#english">English</a>
+  <a href="#česky">Čeština</a> &nbsp;·&nbsp; 
+  <a href="#english">English</a>
 </p>
 
 <p align="center">
@@ -41,7 +42,6 @@ je záměrně vybrané: samostatné hooks a vzory vytažené z projektů.
 <br />
 
 ---
-
 
 React Native & Frontend Engineer · Czech Republic
 
