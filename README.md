@@ -1,4 +1,18 @@
-### Roman Kalita
+<h1 align="center">Roman Kalita</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=6B7280&center=true&vCenter=true&width=560&lines=React+Native+%26+Frontend+Engineer;Offline-first+%7C+React+Native+%7C+TypeScript;Building+for+Czech+emergency+services" alt="typing animation" />
+</p>
+
+<p align="center">
+  🇨🇿 <a href="#česky">Čeština</a> &nbsp;·&nbsp; 🇬🇧 <a href="#english">English</a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,firebase,figma,git" alt="React, TypeScript, JavaScript, Firebase, Figma, Git" />
+</p>
+
+<br />
 
 React Native & Frontend Engineer · Česká republika
 
@@ -23,6 +37,8 @@ je záměrně vybrané: samostatné hooks a vzory vytažené z projektů.
 
 **Celé case studies, metriky a živá dema:** [romankalita.com](https://romankalita.com)
 **Kontakt:** [LinkedIn](https://www.linkedin.com/in/roman-kalita-600643323/) · romankalita010@gmail.com
+
+<br />
 
 ---
 
