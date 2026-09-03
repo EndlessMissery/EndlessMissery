@@ -13,9 +13,9 @@
 <details open>
 <summary><strong>Čeština</strong></summary>
 
-React Native & Frontend Engineer · Česká republika
+React Native & Frontend Developer · Česká republika
 
-Aktuálně Frontend Lead v Pixacom Technology, vyvíjím offline-first mobilní a
+Aktuálně Frontend Developer v Pixacom Technology, vyvíjím offline-first mobilní a
 webové nástroje pro Zdravotnickou záchrannou službu — dispečerské systémy v
 reálném čase, terénní aplikace a administrativní platformy běžící na
 iPadech v sanitkách a na dispečinku. Ve volném čase stavím vlastní nástroje
@@ -46,9 +46,9 @@ samostatné hooks a vzory.
 <details>
 <summary><strong>English</strong></summary>
 
-React Native & Frontend Engineer · Czech Republic
+React Native & Frontend Developer · Czech Republic
 
-Currently Frontend Lead at Pixacom Technology, building offline-first mobile
+Currently Frontend Developer at Pixacom Technology, building offline-first mobile
 and web tools for Czech emergency services — real-time dispatch systems,
 field apps, and admin platforms running on iPads in ambulances and dispatch
 centers. In my free time I build my own tools and libraries outside the day
