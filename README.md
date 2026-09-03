@@ -28,8 +28,7 @@ a knihovny mimo hlavní úvazek.
 - **[VN Studio](https://github.com/EndlessMissery/vn-studio-hooks)** — editor pro tvorbu visual novel příběhů v prohlížeči, uzlový graf scény, 3D místnosti vedle 2D postav.
 
 Před vývojem jsem šest let pracoval jako grafický designer — wireframy,
-prototypy, UI/UX, 3D. Rozhraní navrhuju dřív, než ho začnu stavět, ne že
-jen implementuju cizí mockup.
+prototypy, UI/UX, 3D.
 
 **Stack:** React Native · React · TypeScript · Zustand · Firebase · SQLite ·
 Offline-first architektura
@@ -61,8 +60,7 @@ job.
 - **[VN Studio](https://github.com/EndlessMissery/vn-studio-hooks)** — a browser-based editor for building visual novel stories, node-graph scenes, 3D rooms alongside 2D characters.
 
 Before development: six years as a graphic designer — wireframes,
-prototypes, UI/UX, 3D. I design interfaces before I build them, not just
-implement someone else's mockup.
+prototypes, UI/UX, 3D.
 
 **Stack:** React Native · React · TypeScript · Zustand · Firebase · SQLite ·
 Offline-first architecture
