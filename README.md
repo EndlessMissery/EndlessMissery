@@ -23,9 +23,9 @@ a knihovny mimo hlavní úvazek.
 
 **Vlastní projekty:**
 - **[EM UI Library](https://github.com/EndlessMissery/em-ui-library)** — open-source React component library, TypeScript, testy a přístupnost od základu, publikovaná na [npm](https://www.npmjs.com/package/em-ui-library) s živým [Storybook demem](https://endlessmissery.github.io/em-ui-library/).
-- **Watchtower** — self-hosted monitoring dostupnosti API a testovacích scénářů, s rolemi a audit logem.
-- **DevTooler** — AI generátor komponentových kitů podle konvencí konkrétní codebase, s exportem přímo do VS Code.
-- **VN Studio** — editor pro tvorbu visual novel příběhů v prohlížeči, uzlový graf scény, 3D místnosti vedle 2D postav.
+- **[Watchtower](https://github.com/EndlessMissery/watchtower-snippets)** — self-hosted monitoring dostupnosti API a testovacích scénářů, s rolemi a audit logem.
+- **[DevTooler](https://github.com/EndlessMissery/devtooler-hooks)** — AI generátor komponentových kitů podle konvencí konkrétní codebase, s exportem přímo do VS Code.
+- **[VN Studio](https://github.com/EndlessMissery/vn-studio-hooks)** — editor pro tvorbu visual novel příběhů v prohlížeči, uzlový graf scény, 3D místnosti vedle 2D postav.
 
 Před vývojem jsem šest let pracoval jako grafický designer — wireframy,
 prototypy, UI/UX, 3D. Rozhraní navrhuju dřív, než ho začnu stavět, ne že
@@ -56,9 +56,9 @@ job.
 
 **Personal projects:**
 - **[EM UI Library](https://github.com/EndlessMissery/em-ui-library)** — open-source React component library with TypeScript, tests, and accessibility built in, published on [npm](https://www.npmjs.com/package/em-ui-library) with a live [Storybook demo](https://endlessmissery.github.io/em-ui-library/).
-- **Watchtower** — self-hosted API availability and scenario monitoring, with roles and an audit log.
-- **DevTooler** — an AI generator for component kits that follow a specific codebase's own conventions, with export straight into VS Code.
-- **VN Studio** — a browser-based editor for building visual novel stories, node-graph scenes, 3D rooms alongside 2D characters.
+- **[Watchtower](https://github.com/EndlessMissery/watchtower-snippets)** — self-hosted API availability and scenario monitoring, with roles and an audit log.
+- **[DevTooler](https://github.com/EndlessMissery/devtooler-hooks)** — an AI generator for component kits that follow a specific codebase's own conventions, with export straight into VS Code.
+- **[VN Studio](https://github.com/EndlessMissery/vn-studio-hooks)** — a browser-based editor for building visual novel stories, node-graph scenes, 3D rooms alongside 2D characters.
 
 Before development: six years as a graphic designer — wireframes,
 prototypes, UI/UX, 3D. I design interfaces before I build them, not just
