@@ -13,9 +13,9 @@
 <details open>
 <summary><strong>Čeština</strong></summary>
 
-React Native & Frontend Engineer · Česká republika
+React Native & Frontend Developer · Česká republika
 
-Aktuálně Frontend Lead v Pixacom Technology, vyvíjím offline-first mobilní a
+Aktuálně Frontend Developer v Pixacom Technology, vyvíjím offline-first mobilní a
 webové nástroje pro Zdravotnickou záchrannou službu — dispečerské systémy v
 reálném čase, terénní aplikace a administrativní platformy běžící na
 iPadech v sanitkách a na dispečinku. Nedávno jsem vedl upgrade React Native
@@ -27,7 +27,7 @@ Před vývojem jsem šest let pracoval jako grafický designer — wireframy,
 prototypy, UI/UX, 3D. Rozhraní navrhuju dřív, než ho začnu stavět, ne že
 jen implementuju cizí mockup.
 
-**Stack:** React Native · React · TypeScript · Zustand · Firebase · SQLite ·
+**Stack:** React Native · React · TypeScript · Firebase · SQLite ·
 Offline-first architektura
 
 Většina toho, co dělám, je buď pod NDA (produkční systémy pro záchranné
@@ -42,9 +42,9 @@ je záměrně vybrané: samostatné hooks a vzory vytažené z projektů.
 <details>
 <summary><strong>English</strong></summary>
 
-React Native & Frontend Engineer · Czech Republic
+React Native & Frontend Developer · Czech Republic
 
-Currently Frontend Lead at Pixacom Technology, building offline-first mobile
+Currently Frontend Developer at Pixacom Technology, building offline-first mobile
 and web tools for Czech emergency services — real-time dispatch systems,
 field apps, and admin platforms running on iPads in ambulances and dispatch
 centers. Recent work: leading a React Native 0.72 → 0.83 upgrade that cut
@@ -55,7 +55,7 @@ Before development: six years as a graphic designer — wireframes,
 prototypes, UI/UX, 3D. I design interfaces before I build them, not just
 implement someone else's mockup.
 
-**Stack:** React Native · React · TypeScript · Zustand · Firebase · SQLite ·
+**Stack:** React Native · React · TypeScript · Firebase · SQLite ·
 Offline-first architecture
 
 Most of what I build is either under NDA (production systems for emergency
